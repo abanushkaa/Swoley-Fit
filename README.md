@@ -1,16 +1,57 @@
-# React + Vite
+💪 Swoley-Fit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The ultimate gym training web app built with React + TailwindCSS — plan workouts, track progress, and stay motivated.
 
-Currently, two official plugins are available:
+🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Modern UI/UX – Clean, responsive, and Gen-Z inspired design built using TailwindCSS.
+✅ Workout Generator – AI-style random workout generation for different muscle groups.
+✅ Training Categories – Choose from Push/Pull/Legs, Full-Body, Cardio, and Core workouts.
+✅ Dynamic Animations – Smooth transitions and component animations for an engaging experience.
+✅ Customizable Plans – Users can adjust reps, sets, and duration to match fitness levels.
+✅ Responsive Design – Works seamlessly on desktop, tablet, and mobile devices.
+✅ Fast Performance – Powered by Vite for lightning-fast build and load times.
 
-## React Compiler
+🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Try it instantly: 🔗 Swoley-Fit Live
 
-## Expanding the ESLint configuration
+(Deployed via Netlify — auto updates with each GitHub commit)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 Tech Stack
+Category	Technology
+Frontend Framework	React.js
+
+Styling	TailwindCSS
+
+Build Tool	Vite
+
+Deployment	Netlify
+
+Version Control	Git + GitHub
+⚙️ Setup & Run Locally
+
+Follow these simple steps to get started 👇
+
+# 1️⃣ Clone the repository
+git clone https://github.com/abanushkaa/Swoley-Fit.git
+
+# 2️⃣ Navigate to the project folder
+cd Swoley-Fit
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
+
+
+Your app will start running locally at
+👉 http://localhost:5173
+🧑‍💻 Future Enhancements
+
+🚀 Add login & user profiles
+📈 Store and visualize workout progress with charts
+🧠 Integrate OpenAI API for smart workout suggestions
+🎵 Add motivational music playlist integration
+💬 Community workout sharing
