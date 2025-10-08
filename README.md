@@ -5,11 +5,17 @@ The ultimate gym training web app built with React + TailwindCSS — plan workou
 🌟 Features
 
 ✅ Modern UI/UX – Clean, responsive, and Gen-Z inspired design built using TailwindCSS.
+
 ✅ Workout Generator – AI-style random workout generation for different muscle groups.
+
 ✅ Training Categories – Choose from Push/Pull/Legs, Full-Body, Cardio, and Core workouts.
+
 ✅ Dynamic Animations – Smooth transitions and component animations for an engaging experience.
+
 ✅ Customizable Plans – Users can adjust reps, sets, and duration to match fitness levels.
+
 ✅ Responsive Design – Works seamlessly on desktop, tablet, and mobile devices.
+
 ✅ Fast Performance – Powered by Vite for lightning-fast build and load times.
 
 🚀 Live Demo
@@ -48,10 +54,15 @@ npm run dev
 
 Your app will start running locally at
 👉 http://localhost:5173
+
 🧑‍💻 Future Enhancements
 
 🚀 Add login & user profiles
+
 📈 Store and visualize workout progress with charts
+
 🧠 Integrate OpenAI API for smart workout suggestions
+
 🎵 Add motivational music playlist integration
+
 💬 Community workout sharing
