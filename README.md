@@ -2,6 +2,8 @@
 
 The ultimate gym training web app built with React + TailwindCSS — plan workouts, track progress, and stay motivated.
 
+Deployed Live: https://swoleyfit-vite.netlify.app/
+
 🌟 Features
 
 ✅ Modern UI/UX – Clean, responsive, and Gen-Z inspired design built using TailwindCSS.
